@@ -1,0 +1,30 @@
+ /* Row CSS  */
+.logo-img {
+    width: 100px;
+}
+.mobil-menu,
+.header-menu,
+.footer-menu {
+    list-style: none;
+}
+.header-menu ul {
+    align-items: center;
+}
+.header-menu li {
+    padding: 5px 18px;
+}
+.mobil-menu li {
+    padding: 7px 10px;
+    border-bottom: 1px solid #888888; 
+}
+.footer-menu li a i {
+    color: wheat;
+    padding: 15px;
+    background: #393939;
+    border-radius: 27px;        
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
